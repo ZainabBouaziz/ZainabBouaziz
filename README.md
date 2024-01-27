@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+-🌱 Currently learning to be a full-stack Python developer.
+-🔭 Working on improving my skills in MySQL, Python, OOP, Flask, and learning Django.
 <!--
 **ZainabBouaziz/ZainabBouaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
