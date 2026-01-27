@@ -1,18 +1,24 @@
-### Hi there 👋
--🌱 I'm a full-stack Python developer.
--🔭 I’m currently learning php.
--🌱 I’m currently learning codeigniter.
-<!--
-**ZainabBouaziz/ZainabBouaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Zaineb 👋
 
-Here are some ideas to get you started:
+I’m a software engineering student passionate about building reliable and practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on web and backend projects, designing clean architectures, and understanding how systems work end to end. I’m especially interested in cloud technologies, DevOps fundamentals, and automation, and I’m continuously improving my technical and problem-solving skills.
+
+---
+
+## 🛠️ Tech & Tools
+
+- Programming: Python, C, PHP, C++, JAVA 
+- Web: HTML, CSS, JavaScript, Flask, CodeIgniter, REACT
+- Mobile: Flutter
+- Databases: MySQL, Oracle, DynamoDB 
+- Tools: Git, GitHub, MySQL Workbench  
+- Concepts: Backend development, REST APIs, basics of cloud & IAM
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud & DevOps fundamentals  
+- AWS services and access management  
+- Software architecture and clean code practices
